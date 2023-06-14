@@ -1,0 +1,284 @@
+{
+  "ducati": [
+    {
+      "id": 1,
+      "name": "DESERTX",
+      "power": "110 hp",
+      "photograph": "https://i.postimg.cc/FHTYD7hj/ducati1.jpg",
+      "torque": "68 lb-ft",
+      "dryweight": "202 kg",
+      "price": "starts at INR 15.99 Lacs (Ex-Showroom India)",
+
+
+      "bike": {
+        "type": "V4 Granturismo, V4 - 90°, 4 valves per cylinder, counter-rotating crankshaft, Twin Pulse firing order, liquid cooled",
+        "DISPLACEMENT": "1,158 cc (71 cu in)",
+        "SEATHEIGHT": "790 mm (31.1 in)"
+      },
+      "overall": [
+        {
+          "overview": "Exploration. Fun. Performance. And a great desire to take and leave towards the horizon. The identity of this bike leaves no room for doubt: just looking at it, it brings you into the atmosphere of Dakar racing",
+          "techspec": "We worked by drawing on the best of our knowledge in terms of ergonomics, engine, aerodynamics and electronics. And we developed a new specific chassis for off-road. DesertX is functional, a 'sport tool', competent, technologically advanced and effective like all Ducatis",
+          "explore": "Take your wildest dreams and make them come true. Bring some friends and get ready to enjoy the adventure of a lifetime. DesertX will take you all the way."
+
+        }
+        
+        
+      ]
+    },
+
+    {
+      "id": 2,
+      "name": "Diavel V4",
+      "power": "168 hp",
+      "photograph": "https://i.postimg.cc/CxybTZ8k/Diavel-2.jpg",
+      "torque": "126 nm",
+      "dryweight": "211 kg",
+      "price": "starts at  INR 25.91 Lacs (Ex-Showroom India, Actual Price to be announced at the time of launch)",
+
+
+      "bike": {
+        "type": "V4 Granturismo, V4 - 90°, 4 valves per cylinder, counter-rotating crankshaft, Twin Pulse firing order, liquid cooled",
+        "DISPLACEMENT": "1,158 cc (71 cu in)",
+        "SEATHEIGHT": "790 mm (31.1 in)"
+      },
+      "overall": [
+        {
+          "overview": "Muscular, sporty, exaggerated and elegant at the same time, able to magnetize attention in any context, Diavel V4 synthesizes seemingly distant technical, dynamic and stylistic features, such as those of sport nakeds and muscle cruisers.The exhilarating performances of the V4 Granturismo engine are combined with surprising agility and dynamics for such a motorcycle.",
+          "techspec": "The exhilarating performances of the V4 Granturismo engine are combined with surprising agility and dynamics for such a motorcycle.",
+          "explore": "Amsterdam, Paris, Brussels, London and New York City. Five exclusive evenings where Diavel design took centre stage in front of an audience of special guests.about the Diavel Design Nights and stay tuned to find out what the next events will be."
+
+        }
+        
+        
+      ]
+    },
+
+    {
+      "id": 3,
+      "name": "XDiavel Nera",
+      "power": "160 hp",
+      "photograph": "https://i.postimg.cc/xTd0RY1m/XDia-3.jpg",
+      "torque": "127 nm",
+      "dryweight": "221 kg",
+      "price": "starts at INR 26.79 Lacs (Ex-Showroom India,) ",
+
+
+      "bike": {
+        "type": "V4 Granturismo, V4 - 90°, 4 valves per cylinder, counter-rotating crankshaft, Twin Pulse firing order, liquid cooled",
+        "DISPLACEMENT": "1,158 cc (71 cu in)",
+        "SEATHEIGHT": "790 mm (31.1 in)"
+      },
+      "overall": [
+        {
+          "overview": "XDiavel Nera: made in Italy design and craftsmanship combine with technology and innovation in a motorcycle made by Ducati in partnership with Poltrona Frau's Interiors. The XDiavel Nera will be produced in a limited-edition numbered series of 500 units: it is characterized by an elegant livery and by a special customizable saddle made of Pelle Frau®",
+          "techspec": "The XDiavel S embodies the sports side of the Ducati cruise. You can tell it is a Ducati at the first corner: the way it leans, its technical content, its cutting-edge electronic package and high performance guarantee an unforgettable riding experience.",
+          "explore": "The XDiavel Dark enhances the beauty of the Ducati cruiser's shapes thanks to the essential matt black colour. On the XDiavel Dark, the total black livery has also been extended to the mechanics and finishes, thus enhancing the Ducati design principle. The XDiavel Dark, the gateway to the XDiavel world, represents its purity and essential nature."
+
+        }
+        
+        
+      ]
+    },
+
+
+    {
+      "id": 4,
+      "name": "Monster SP",
+      "power": "111 hp",
+      "photograph": "https://i.postimg.cc/qMW93dh4/Monster-SP-4.jpg",
+      "torque": "93 nm",
+      "dryweight": "166 kg",
+      "price": "starts at INR 15.99 Lacs (Ex-Showroom India)",
+
+
+      "bike": {
+        "type": "V4 Granturismo, V4 - 90°, 4 valves per cylinder, counter-rotating crankshaft, Twin Pulse firing order, liquid cooled",
+        "DISPLACEMENT": "1,158 cc (71 cu in)",
+        "SEATHEIGHT": "790 mm (31.1 in)"
+      },
+      "overall": [
+        {
+          "overview": "The Monster range grows with the SP version, designed to enhance fun, thanks to technical equipment perfect for those who love sporty riding and embellish style with the Moto GP-inspired livery. ",
+          "techspec": "The Monster represents all the essence of Ducati in the most compact, essential and lightweight form possible. Precise in corners. Stable in straight lines. With the SP version you can enjoy more effective sports riding thanks to the absolute top-notch technical equipment such as Öhlins suspension, Brembo Stylema® front calipers, Termignoni homologated silencer, Pirelli Diablo Rosso IV tires, steering damper and lithium battery.",
+          "explore": "Standard equipment includes ABS Cornering, Ducati Traction Control, Ducati Wheelie Control, all adjustable to different levels of intervention. The sporty character of the new Monster is also emphasized by Launch Control, which ensures lightning-fast starts. This top-of-the-line motorcycle equipment allows the Monster to safely express its performance."
+
+        }
+        
+        
+      ]
+    },
+
+
+    {
+      "id": 5,
+      "name": "Streetfighter V4 Lamborghini",
+      "power": "111 hp",
+      "photograph": "https://i.postimg.cc/sxrJrwvF/V4-Lambo-5.jpg",
+      "torque": "93 nm",
+      "dryweight": "166 kg",
+      "price": "starts at INR 15.99 Lacs (Ex-Showroom India)",
+
+
+      "bike": {
+        "type": "V4 Granturismo, V4 - 90°, 4 valves per cylinder, counter-rotating crankshaft, Twin Pulse firing order, liquid cooled",
+        "DISPLACEMENT": "1,158 cc (71 cu in)",
+        "SEATHEIGHT": "790 mm (31.1 in)"
+      },
+      "overall": [
+        {
+          "overview": "The second chapter of the collaboration between two brands that have contributed to writing the history of Motor Valley, gives birth to the Ducati Streetfighter V4 Lamborghini, with a dedicated livery and a specially designed dressing to recall the design of the famous Lamborghini Huracán STO ",
+          "techspec": "The result of the collaboration between Ducati and Lamborghini is an unexpected model that stands out for its exotic looks and true Streetfighter performance. An unrivaled naked bike, modern and technological capable of amplifying the emotions of those who ride it, making them feel like protagonists in every road outing.",
+          "explore": "The collaboration between the Sant'Agata Bolognese company and the Centro Stile Ducati has resulted in an exclusive livery, featuring the STO logo and the number 63, recalling the year Lamborghini was founded. The colors used for the bike are exactly the same as those used for the Huracán STO, with a base in Verde Citrea and contrasting parts in The name of the model and the serial number of the bike are shown on a metal plate inserted in the central tank cover and on an aluminium insert of the ignition key."
+
+        }
+        
+        
+      ]
+    },
+
+
+    {
+      "id": 6,
+      "name": "Multistrada V4 Rally",
+      "power": "170 hp",
+      "photograph": "https://i.postimg.cc/NFd2z4Xk/V4-Rally-6.jpg",
+      "torque": "121 nm",
+      "dryweight": "227 kg",
+      "price": "starts at INR 29.72 Lacs (Ex-Showroom India)",
+
+
+      "bike": {
+        "type": "V4 Granturismo, V4 - 90°, 4 valves per cylinder, counter-rotating crankshaft, Twin Pulse firing order, liquid cooled",
+        "DISPLACEMENT": "1,158 cc (71 cu in)",
+        "SEATHEIGHT": "790 mm (31.1 in)"
+      },
+      "overall": [
+        {
+          "overview": "The Multistrada V4 Rally is the ideal travel companion in all conditions, as easy and intuitive in the urban jungle as it is on the most daring off-road routes. High-performance, robust and reliable thanks to the V4 Granturismo and extended service intervals, it will carry you wherever your adventurous heart desires.",
+          "techspec": "A bike with which to conquer unexplored lands, equipped with everything you need to travel in the utmost comfort. Its impressive versatility is the result of a new setup and targeted engine development",
+          "explore": "Dedicated to tireless motorcyclists and great adventure, the Multistrada V4 Rally represents a fresh interpretation of the Multistrada V4, as easy and intuitive on the road as it is off."
+
+        }
+        
+        
+      ]
+    },
+
+
+    {
+      "id": 7,
+      "name": "Panigale V4 R",
+      "power": "237 hp Race",
+      "photograph": "https://i.postimg.cc/X7ZvW46b/panigale7.jpg",
+      "torque": "118 nm Race",
+      "dryweight": "167 kg Race",
+      "price": "starts at INR 15.99 Lacs (Ex-Showroom India)",
+
+
+      "bike": {
+        "type": "V4 Granturismo, V4 - 90°, 4 valves per cylinder, counter-rotating crankshaft, Twin Pulse firing order, liquid cooled",
+        "DISPLACEMENT": "1,158 cc (71 cu in)",
+        "SEATHEIGHT": "790 mm (31.1 in)"
+      },
+      "overall": [
+        {
+          "overview": "Ducati presents the Panigale V4 R: the bike that adopts technical solutions previously reserved for MotoGP and WorldSBK Championship.",
+          "techspec": "Greater effectiveness in track use is also achieved through electronic evolutions, such as the expansion and evolution of the Power Modes, the new Track Evo display on the dashboard, engine maps with dedicated calibration for each individual gear, refinements to the DTC and Ride By Wire throttle system, but also the Engine Brake Control EVO 2, the new strategy for the DQS, and the updated cooling fan control.",
+          "explore": "Even faster. Even more racing. The track soul of the Panigale V4 R makes it the perfect bike for your track days. The new livery is inspired by MotoGP in its graphics and conveys the racing spirit from the very first glance, incorporating white number plates with the number 1 prominently displayed."
+
+        }
+        
+        
+      ]
+    },
+
+
+    {
+      "id": 8,
+      "name": "SuperSport 950",
+      "power": "110 hp",
+      "photograph": "https://i.postimg.cc/GtvdBhL8/supersport8.jpg",
+      "torque": "93 nm",
+      "dryweight": "184 kg",
+      "price": "starts at INR 15.99 Lacs (Ex-Showroom India)",
+
+
+      "bike": {
+        "type": "Riding Modes, Bosch Cornering ABS , Ducati Traction Control (DTC) EVO, Ducati Wheelie Control (DWC) EVO",
+        "DISPLACEMENT": "937 cc",
+        "SEATHEIGHT": "810 mm (31.9 in)"
+      },
+      "overall": [
+        {
+          "overview": "Dynamic style and compact volumes. With the elegance of its lines and proportions typical of Panigale sports bikes, the SuperSport 950 is Ducati's road sports bike. In the new Stripe Livery, the SuperSport 950 expresses its most sophisticated essence and bold character.",
+          "techspec": "More sporty in appearance, more fun to drive and even easier, safer and more comfortable thanks to richer standard equipment.",
+          "explore": "The Supersport 950 is a modern bike, perfect for younger riders. This is why it is also available in a 35 kW version rideable with an A2 licences."
+
+        }
+        
+        
+      ]
+    },
+
+
+    {
+      "id": 9,
+      "name": "Hypermotard 950 RVE",
+      "power": "114 hp",
+      "photograph": "https://i.postimg.cc/MZ9Y4bqL/hypermotard-9.jpg",
+      "torque": "93 nm",
+      "dryweight": "178 kg",
+      "price": "starts at INR 15.60 Lacs (Ex-Showroom India)",
+
+
+      "bike": {
+        "type": "V4 Granturismo, V4 - 90°, 4 valves per cylinder, counter-rotating crankshaft, Twin Pulse firing order, liquid cooled",
+        "DISPLACEMENT": "1,158 cc (71 cu in)",
+        "SEATHEIGHT": "790 mm (31.1 in)"
+      },
+      "overall": [
+        {
+          "overview": "The ideal choice for those looking to indulge in the pure pleasure of an adrenaline rush while riding their bike, having maximum fun without compromising on safety. The three models - Hypermotard 950, Hypermotard 950 RVE and Hypermotard 950 SP - are perfect for taking cornering to extremes whilst also dealing with city traffic with the utmost agility.",
+          "techspec": "Discover the features of Hypermotard 950: technology, engine, safety and chassis.",
+          "explore": "A colour scheme that evokes the racing world with its colours and that of freestyle sports with its graphics, highlighting the youthful character of the bike."
+
+        }
+        
+        
+      ]
+    },
+
+
+
+    {
+      "id": 10,
+      "name": "1100 Sport Pro",
+      "power": "111 hp",
+      "photograph": "https://i.postimg.cc/FKPjqhQL/03-Scrambler-1100-Sport-Pro-Full-Of-Technology.jpg",
+      "torque": "93 nm",
+      "dryweight": "166 kg",
+      "price": "starts at INR 15.99 Lacs (Ex-Showroom India)",
+
+
+      "bike": {
+        "type": "V4 Granturismo, V4 - 90°, 4 valves per cylinder, counter-rotating crankshaft, Twin Pulse firing order, liquid cooled",
+        "DISPLACEMENT": "1,158 cc (71 cu in)",
+        "SEATHEIGHT": "790 mm (31.1 in)"
+      },
+      "overall": [
+        {
+          "overview": "The Ducati Scrambler 1100 Sport PRO is equipped with Öhlins suspension. Specifically a 45 mm diameter upside-down fork and a rear shock absorber with adjustable spring preload and rebound damping. Both allow 150 mm wheel travel to cover all types of terrain, from city obstacles to those that can be encountered on soft offroad tracks. This mix of comfort and performance confirms the Scrambler 1100 Sport PRO’s multi-purpose attitude, with the aim of adapting to the riding style of the rider.",
+          "techspec": "Equipped with low handlebars and Café Racer-style rear-view mirrors. Available in Matt Black color. The 1100 logo is painted on the interchangeable cheeks.",
+          "explore": "With the electronic management system Ride by Wire and the inertial platform, the Ducati Scrambler 1100 Sport PRO offers high standards of active safety and performance always within everyone’s reach and for every type of use thanks to the three Riding Modes. The Scrambler 1100 Sport PRO is equipped with Ducati Traction Control (DTC)."
+        }
+        
+        
+      ]
+    }
+
+
+  ]
+}
+
+

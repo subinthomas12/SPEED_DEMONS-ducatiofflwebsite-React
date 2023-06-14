@@ -1,0 +1,32 @@
+#c1{
+    transition: .3s ease-in;
+}
+
+#c1:hover{
+    transform: scale(1.02);
+}
+
+#l1{
+    text-decoration: none;
+}
+
+#h1{
+    color: rgba(0, 0, 0, 0.478);
+    background-color: rgba(255, 255, 255, 0.279);
+}
+
+
+#h3{
+    background-color: rgba(237, 2, 2, 0.679);
+    color: white;
+    width: 400px;
+    text-align: center;
+}
+
+#img{
+    height: 700px;
+}
+
+#strong{
+    font-style: italic;
+}
